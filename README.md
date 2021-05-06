@@ -1,2 +1,2 @@
-# CMPE125
+# CMPE140
 Digital Design, Verilog
